@@ -36,4 +36,4 @@ let searchRange = function(nums, target) {
  
   return res;
 };
-console.log(searchRange(nums,target)); // [3, 4]
+console.log(searchRange(nums,target));
